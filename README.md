@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @koki2004
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 oi,eu sou @adrianobitencourt
+- 👀 estou interessado em vender jogos online
+- 🌱 atualmente estou aprentendo a criar pagina
+- 💞️ estou procurando colaborar em fazer jogos
+- 📫 como chegar ate mim 44 99864866
 
 <!---
 koki2004/koki2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
